@@ -71,6 +71,7 @@ scrollbar-thumb {
 }
 
 .container {
+  font-family: "Josefin Sans", sans-serif;
   position: relative;
 
   width: 100%;
