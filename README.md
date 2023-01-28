@@ -48,8 +48,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/todo-list-app-made-with-vue-js-fNjKGoDxDh)
+- Live Site URL: [live site URL here](https://fem-todo-app-ten.vercel.app/)
 
 ## My process
 
